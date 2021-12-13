@@ -1,6 +1,7 @@
-### Hi there 👋, My Name Is Tawhid Akondo
-#### Full-Stack Web Developer
 ![Full-Stack Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQEKV8PAn48oEw/profile-displaybackgroundimage-shrink_200_800/0/1639369768150?e=1645056000&v=beta&t=tYKmCHD2d7yeujeYXDeEUXb_Cw4wXQvNFIwj5dSZNtg)
+
+### Hi there 👋, My Name Is Tawhid Akondo
+# Full-Stack Web Developer
 
 Hi,
 My Name Is Tawhid Akondo. I am a Professionally Full-Stack Web Developer and WordPress Expert. I Have Long Course Training And completed Many Practical projects. If you want to Completely Dynamic Website, then you have come from the Right Place. I know all kinds of secret Codding systems. I have Numerous years of Experience In this job. My Job is completely client 100% satisfaction. I have always loved learning. 
@@ -14,7 +15,7 @@ Skills: Wordpress/PHP/HTML-5/CSS-3/Bootstrap/Javascript/ReactJs/React-Router/Nod
 - 📫 How to reach me: tawhid6501@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tawhidakondo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Tawhid Akondo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Tawhid Akondo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Tawhid Akondo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/akondotawhid)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tawhidakondo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/TawhidAkondo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/TawhidAkondo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/akondotawhid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](wpwebtheme.com)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
