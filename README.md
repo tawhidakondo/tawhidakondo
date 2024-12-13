@@ -4,9 +4,9 @@
 # Full-Stack Web Developer
 
 Hi,
-My Name Is Tawhid Akondo. I am a Professionally Full-Stack Web Developer and WordPress Expert. I Have Long Course Training And completed Many Practical projects. If you want to Completely Dynamic Website, then you have come from the Right Place. I know all kinds of secret Codding systems. I have Numerous years of Experience In this job. My Job is completely client 100% satisfaction. I have always loved learning. 
+My Name Is Tawhid Hossain. I am a Professionally Full-Stack Web Developer and WordPress Expert. I have had a long course of training and completed many practical projects. If you want a Completely Dynamic Website, then you have come from the Right Place. I know all kinds of secret Coding systems. I have Numerous years of Experience In this job. My Job is completely client 100% satisfaction. I have always loved learning. 
 
-Skills: Wordpress/PHP/HTML-5/CSS-3/Bootstrap/Javascript/ReactJs/React-Router/Node.Js/Express.Js/MongDB
+Skills: Java, Wordpress, PHP, HTML-5, CSS-3, Bootstrap, Javascript, Node.Js, Express.Js, MongoDB
 
 - 🔭 I’m currently working on Programming Hero 
 - 🌱 I’m currently learning JavaScript 
