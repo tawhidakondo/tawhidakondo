@@ -8,11 +8,11 @@ My Name Is Tawhid Hossain. I am a Professionally Full-Stack Web Developer and Wo
 
 Skills: Java, Wordpress, PHP, HTML-5, CSS-3, Bootstrap, Javascript, Node.Js, Express.Js, MongoDB
 
-- 🔭 I’m currently working on Programming Hero 
-- 🌱 I’m currently learning JavaScript 
+- 🔭 I’m currently working on Elevate Digital Ventures 
+- 🌱 I’m currently learning Java, Spring Boot etc 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development or wordpress 
-- 📫 How to reach me: tawhid6501@gmail.com 
+- 📫 How to reach me: tawhid7521@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tawhidakondo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/TawhidAkondo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/TawhidAkondo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/akondotawhid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](wpwebtheme.com)  
